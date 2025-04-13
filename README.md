@@ -18,7 +18,6 @@ This project classifies audio files into music genres using Convolutional Neural
   - Output layer with Softmax for multi-class classification
 - **Loss**: Sparse Categorical Crossentropy  
 - **Optimizer**: Adam  
-- **Accuracy**: ~75–80% on test set (can be improved with tuning)
 
 ## 📦 Dependencies
 
